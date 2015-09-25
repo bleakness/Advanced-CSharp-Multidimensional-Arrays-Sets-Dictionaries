@@ -1,0 +1,1 @@
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\07.Phonebook\bin\Debug\07.Phonebook.exe.config

@@ -1,0 +1,1 @@
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\04.SequenceinMatrix\bin\Debug\04.SequenceinMatrix.exe.config

@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\01.FillTheMatrix_\bin\Debug\01.FillTheMatrix_.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\01.FillTheMatrix_\bin\Debug\01.FillTheMatrix_.exe
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\01.FillTheMatrix_\bin\Debug\01.FillTheMatrix_.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\01.FillTheMatrix_\obj\Debug\01.FillTheMatrix_.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\01.FillTheMatrix_\obj\Debug\01.FillTheMatrix_.exe
+c:\users\plamena\documents\visual studio 2013\Projects\AdvancedCSharpSecondLecture\01.FillTheMatrix_\obj\Debug\01.FillTheMatrix_.pdb
